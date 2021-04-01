@@ -1,0 +1,7 @@
+f,20
+h,40
+a,0
+nanita,51220
+oooo,46680
+alejo,2860
+nico,70900
