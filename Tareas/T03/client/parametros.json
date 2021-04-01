@@ -1,0 +1,68 @@
+{   
+    "HOST": "localhost",
+    "PORT": 47365,
+    
+    "MAX_JUGADORES_PARTIDA": 4,
+
+    "SIZE_VENTANA_ESPERA": [600, 500],
+    "SIZE_VENTANA_JUEGO": [1300, 900],
+    "SIZE_VENTANA_FIN": [600, 500],
+
+    "TAMANO_CARTA": [300, 436],
+    "TAMANO_CAMINO": [150, 51],
+    "TAMANO_HEXAGONO": [300, 259],
+    "LARGO_ARISTA": 110,
+    "TAMANO_DROP_CHOZA": [40, 40],
+
+    "LOGO_SOL_SIZE": [1128, 397],
+    "LOGO_SOL_RUTA": ["sprites", "Otros", "Logo_sol.png"],
+
+    "RUTA_ICONO_INTERCAMBIO": ["sprites_adicionales", "icono_intercambio.png"],
+
+    "MATERIAS_PRIMAS": {
+        "RUTA_CARTA_ARCILLA": ["sprites", "Materias_primas", "carta_arcilla.png"],
+        "RUTA_CARTA_MADERA": ["sprites", "Materias_primas", "carta_madera.png"],
+        "RUTA_CARTA_REVERSO": ["sprites", "Materias_primas", "carta_reverso.png"],
+        "RUTA_CARTA_TRIGO": ["sprites", "Materias_primas", "carta_trigo.png"],
+        "RUTA_FICHA_NUMERO": ["sprites", "Materias_primas", "ficha_numero.png"],
+        "RUTA_HEXAGONO_ARCILLA": ["sprites", "Materias_primas", "hexagono_arcilla.png"],
+        "RUTA_HEXAGONO_MADERA": ["sprites", "Materias_primas", "hexagono_madera.png"],
+        "RUTA_HEXAGONO_TRIGO": ["sprites", "Materias_primas", "hexagono_trigo.png"]
+    },
+
+    "CONSTRUCCIONES": {
+        "RUTA_CAMINO_AZUL_0": ["sprites", "Construcciones", "camino_azul_0.png"],
+        "RUTA_CAMINO_AZUL_60": ["sprites", "Construcciones", "camino_azul_60.png"],
+        "RUTA_CAMINO_AZUL_120": ["sprites", "Construcciones", "camino_azul_120.png"],
+        "RUTA_CAMINO_ROJO_0": ["sprites", "Construcciones", "camino_rojo_0.png"],
+        "RUTA_CAMINO_ROJO_60": ["sprites", "Construcciones", "camino_rojo_60.png"],
+        "RUTA_CAMINO_ROJO_120": ["sprites", "Construcciones", "camino_rojo_120.png"],
+        "RUTA_CAMINO_VERDE_0": ["sprites", "Construcciones", "camino_verde_0.png"],
+        "RUTA_CAMINO_VERDE_60": ["sprites", "Construcciones", "camino_verde_60.png"],
+        "RUTA_CAMINO_VERDE_120": ["sprites", "Construcciones", "camino_verde_120.png"],
+        "RUTA_CAMINO_VIOLETA_0": ["sprites", "Construcciones", "camino_violeta_0.png"],
+        "RUTA_CAMINO_VIOLETA_60": ["sprites", "Construcciones", "camino_violeta_60.png"],
+        "RUTA_CAMINO_VIOLETA_120": ["sprites", "Construcciones", "camino_violeta_120.png"],
+        "RUTA_CHOZA_AZUL": ["sprites", "Construcciones", "choza_azul.png"],
+        "RUTA_CHOZA_ROJA": ["sprites", "Construcciones", "choza_roja.png"],
+        "RUTA_CHOZA_VERDE": ["sprites", "Construcciones", "choza_verde.png"],
+        "RUTA_CHOZA_VIOLETA": ["sprites", "Construcciones", "choza_violeta.png"]
+
+    },
+
+    "DESARROLLO": {
+        "RUTA_CARTA_REVERSO": ["sprites", "Desarrollo", "carta_reverso.png"],
+        "RUTA_CARTA_MONOPOLIO": ["sprites", "Desarrollo", "monopolio_1.png"],
+        "RUTA_CARTA_VICTORIA_1": ["sprites", "Desarrollo", "victoria_1.png"],
+        "RUTA_CARTA_VICTORIA_2": ["sprites", "Desarrollo", "victoria_2.png"]
+    },
+
+    "DADOS": {
+        "RUTA_DADO_1": ["sprites", "Dados", "dado_1.png"],
+        "RUTA_DADO_2": ["sprites", "Dados", "dado_2.png"],
+        "RUTA_DADO_3": ["sprites", "Dados", "dado_3.png"],
+        "RUTA_DADO_4": ["sprites", "Dados", "dado_4.png"],
+        "RUTA_DADO_5": ["sprites", "Dados", "dado_5.png"],
+        "RUTA_DADO_6": ["sprites", "Dados", "dado_6.png"]
+    }
+}
